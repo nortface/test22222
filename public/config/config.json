@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBA727A5e57a105FC2A1d1fa24627473F084E92bf",
+  "SCAN_LINK": "https://polygonscan.com/token/0xba727a5e57a105fc2a1d1fa24627473f084e92bf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AliensNTech",
+  "SYMBOL": "ANTECH",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 355000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/aliensntech",
+  "SHOW_BACKGROUND": true
+}
